@@ -13,7 +13,7 @@ CSS3: Custom styling and layout refinements.
 Bootstrap 5: Utilized for the responsive grid, utility classes, and layout components.
 ## 📂 Project Structure
 .
-├── index.html          # Main landing page
-├── style.css           # Custom CSS for Netflix branding
-├── images/             # Local assets (logos, icons)
-└── README.md           # Project documentation
+├── index.html   <br>
+├── style.css           <br>
+├── images/             <br>
+└── README.md           
